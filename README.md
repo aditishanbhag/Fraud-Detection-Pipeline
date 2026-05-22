@@ -62,10 +62,3 @@ Evaluation  (ROC-AUC, Confusion Matrix, Classification Report)
 - **Production-style code** — modular functions, docstrings, logging, and error handling throughout
 
 ---
-
-
-
-**Aditi Shanbhag**
-- 📧 shanbhagaditi82@gmail.com
-- 🔗 [LinkedIn](www.linkedin.com/in/aditi-shanbhag-16b6a5286)
-- 🐙 [GitHub](https://github.com/aditishanbhag)
